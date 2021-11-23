@@ -1,6 +1,7 @@
 # Minesweeper
 
 안드로이드로 구현한 지뢰찾기
+![image](https://user-images.githubusercontent.com/72863745/143055713-47a1d3a9-1a92-4606-b10c-51f5600439f7.png)
 
 ## (1)MainActivity
 #### 1)기본 설명 
